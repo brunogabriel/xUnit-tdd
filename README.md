@@ -8,7 +8,6 @@ it's a recommended reading to developers, even if you don't like Python or Java 
 
 ### How to run
 I used Python 2.7.x and run in MAC OS, but it's easy:
-```
 ```bash
 python xunit.py
 ```
